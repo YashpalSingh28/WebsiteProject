@@ -1,0 +1,97 @@
+#header{
+    background: linear-gradient(to right,rgb(0,153,214),#015374);
+    padding: 10px 0px;
+    
+}  
+#header img{
+    width: 100px;
+    box-shadow: 10px 10px black;
+}
+#header .bi-list{
+    color: white;
+} 
+#header ul li a{
+    color: white;
+}
+#header .container-fluid{
+    padding-left: 0px;
+}
+#banner{
+    background: linear-gradient(to right,rgb(0,153,214),#015374);
+    padding-top: 30px;
+}
+#banner #banner-img{
+    width: 200px;
+    border-radius: 50%;
+}
+#banner img{
+    width: 100%;
+}
+#banner h4{
+    color: rgb(218,219,215);
+    text-align: center;
+}
+#banner p{
+    text-align: justify;
+    color:  rgb(218,219,215);
+}
+#Services h2{
+    text-align: center;
+    font-family: 'Delicious Handrawn', cursive; 
+}
+#Services img{
+    width: 100px;
+}
+#Services h4{
+    font-family: 'Bebas Neue', cursive;
+}
+#Services p{
+    text-align: justify;
+}
+#Services{
+    padding: 35px 0px;
+}
+#testi h2{
+    text-align: center;
+    font-family: 'Delicious Handrawn', cursive; 
+}
+#testi img{
+    width: 100px;
+    border-radius: 50%;
+}
+#testi p{
+    text-align: justify;
+}
+#testi h4{
+    font-size: 13px;
+}
+#testi{
+    padding: 35px 0px;
+}
+#footer #footer-img{
+    width: 100%;
+}
+#footer{
+    background: linear-gradient(to right,rgb(0,153,214),#015374);
+}
+#footer h2{
+    color: white;
+    font-family: 'Delicious Handrawn', cursive; 
+}
+#footer p{
+    color: rgb(218,219,215);
+    text-align: justify;
+}
+#footer span{
+    font-size: 30px;
+    color: white;
+}
+#footer table tr{
+    display: flex;
+    margin-right: auto;
+}
+#footer img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+  

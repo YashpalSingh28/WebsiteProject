@@ -1,0 +1,25 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 700px;
+   }
+#login h2{
+    text-align: center;
+}
+#dashboard{
+    background: linear-gradient(to right,rgb(0,153,214),#015374);
+    padding: 15px 0px;
+}
+#dashboard button{
+    float: right;
+}
+#dashboard h2{
+    color: white;
+}
+#footer{
+    background: linear-gradient(to right,rgb(0,153,214),#015374);
+}
+#footer h2{
+    text-align: center;
+    color: white;
+}
